@@ -2,7 +2,7 @@
 title: "Articles"
 date: 2025-07-22T23:20:47-04:00
 draft: false
-layout: "posts"
+layout: "archive"
 hidemeta: true
 ---
 
