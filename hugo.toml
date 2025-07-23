@@ -4,7 +4,8 @@ baseURL = "https://fossym.github.io/" # IMPORTANT: Change this to your repositor
 languageCode = "en-us"
 title = "FOSS Scouting"
 theme = "PaperMod"
-paginate = 5
+[pagination]
+  pagerSize = 5
 
 enableRobotsTXT = true
 buildDrafts = false
