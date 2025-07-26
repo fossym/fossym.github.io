@@ -75,7 +75,7 @@ buildExpired = false
 # Menu Navigation
 [menu]
   [[menu.main]]
-    identifier = "articles"
+    identifier = "posts"
     name = "Articles"
     url = "/posts/"
     weight = 10
