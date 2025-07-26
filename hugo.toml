@@ -63,7 +63,7 @@ buildExpired = false
     imageHeight = 120
     imageTitle = "Cognitive Scout Logo"
     buttons = [
-        { name = "Articles", url = "/articles" },
+        { name = "Articles", url = "/posts" },
         { name = "About", url = "/about" }
     ]
 
@@ -77,7 +77,7 @@ buildExpired = false
   [[menu.main]]
     identifier = "articles"
     name = "Articles"
-    url = "/articles/"
+    url = "/posts/"
     weight = 10
   [[menu.main]]
     identifier = "concepts"
