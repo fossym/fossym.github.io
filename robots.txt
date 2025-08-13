@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fossym.github.io/sitemap.xml
